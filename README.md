@@ -6,34 +6,22 @@ There are currently 4 breakout boards.
 ## PLCC44 Breakout board
 ![PLCC44_breakout](./images/plcc44_breakout.png)
 
-This is the 44 pin PLCC breakout board. Each pin on the PLCC socket is broken out into 2 pinheader (or pinsocket) contacts. There are 8 ground pins that connect to the copper pour BUT do not connect to any pins on the PLCC socket.
-
-Please see the boards folder for the Kicad design files.
-
 ## PLCC52 Breakout board
 ![PLCC52_breakout](./images/plcc52_breakout.png)
-
-This is the 52 pin PLCC breakout board. Each pin on the PLCC socket is broken out into 2 pinheader (or pinsocket) contacts. There are 8 ground pins that connect to the copper pour BUT do not connect to any pins on the PLCC socket.
-
-Please see the boards folder for the Kicad design files.
 
 ## PLCC68 Breakout board
 ![PLCC68_breakout](./images/plcc68_breakout.png)
 
-This is the 68 pin PLCC breakout board. Each pin on the PLCC socket is broken out into 2 pinheader (or pinsocket) contacts. There are 8 ground pins that connect to the copper pour BUT do not connect to any pins on the PLCC socket.
-
-Please see the boards folder for the Kicad design files.
-
 ## PLCC84 Breakout board
 ![PLCC84_breakout](./images/plcc84_breakout.png)
 
-This is the 84 pin PLCC breakout board. Each pin on the PLCC socket is broken out into 2 pinheader (or pinsocket) contacts. There are 8 ground pins that connect to the copper pour BUT do not connect to any pins on the PLCC socket.
+For each breakout board, each pin on the PLCC socket is broken out into 2 pinheader (or pinsocket) contacts. There are 8 ground pins that connect to the copper pour BUT do not connect to any pins on the PLCC socket. There is no decoupling provided on the breakout board as the power and ground pins are specific to the actual device being used. 
 
 Please see the boards folder for the Kicad design files.
 
 ## Version History
 
-* 0.1
+* 1.0
     * Initial Release
 
 ## License
